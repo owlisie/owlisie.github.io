@@ -10,5 +10,5 @@
     * Synthetic Signal Generation  
       * DCG to DCG & ECG
     * Abnormal Classification
-  * Computer Vision      
-      * 3D-CNN Contest    
+* Computer Vision      
+  * 3D-CNN Contest    
