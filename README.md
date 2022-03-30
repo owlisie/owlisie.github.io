@@ -1,8 +1,8 @@
-## __Intelligent Control and Automation System Lab__장영인 
-## 석사 과정 연구 프로젝트 Git  
+## __Intelligent Control and Automation System Lab 장영인 Young In Jang__
+## 연구 프로젝트 
 
 * Artificial Intelligence based Biomedical Signal Analysis
-  * Artifical Intelligence Lab  
+  * Artifical Intelligence  
     * CNN  
     * RNN  
     * GAN
@@ -13,7 +13,6 @@
     * Peak Detection  
     * Generation  
         * DCG - DCG & ECG Decode
-
 
        
 ##### Environment  
