@@ -3,12 +3,11 @@
 
 * Biomedical Signal Processing and Analysis based on Deep Learining
   * Biomedical Signal Processing  
-    * Noise Removal  
+    * Contact-free cardiogram Noise Removal  
     * Cardiogram Signal Processing
   * Biomedical Signal Analysis  
-    * Cardiogram Sensor Domain Transfer  
     * Synthetic Signal Generation  
       * DCG to DCG & ECG
     * Abnormal Classification
 * Computer Vision      
-  * 3D-CNN Contest    
+  * Anormaly detection : 3D-CNN Contest    
