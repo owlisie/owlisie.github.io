@@ -1,4 +1,4 @@
-## __Intelligent Control and Automation System Lab 장영인 Young In Jang__  
+## __Intelligent Control and Automation System Lab M.S Young In Jang__  
 ## 장영인 연구 프로젝트   
 
 * Biomedical Signal Processing and Analysis based on Deep Learining
@@ -9,5 +9,6 @@
     * Synthetic Signal Generation  
       * DCG to DCG & ECG
     * Abnormal Classification
+    * Biomedical Image XAI
 * Computer Vision      
   * Anormaly detection : 3D-CNN Contest    
