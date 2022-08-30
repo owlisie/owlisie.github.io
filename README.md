@@ -1,4 +1,4 @@
-## __Intelligent Control and Automation System Lab M.S Young In Jang__  
+## __Intelligent Control and Automation System Lab M.E Young In Jang__  
 ## 장영인 연구 프로젝트   
 
 * Biomedical Signal Processing and Analysis based on Deep Learining
@@ -12,3 +12,14 @@
     * Biomedical Image XAI
 * Computer Vision      
   * Anormaly detection : 3D-CNN Contest    
+
+## __KBRI Researcher Young In Jang__  
+## 장영인 연구 프로젝트   
+
+* Biomedical Signal Processing and Analysis based on Deep Learining
+  * Biomedical Signal Processing  
+    * Dimensionality Reduction  
+    * EEG pre-processing
+  * Biomedical Signal Analysis  
+    * Principal Feature Extraction & Classification  
+      * EEG to Stimuli Analysis
