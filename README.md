@@ -8,8 +8,7 @@
   * Biomedical Signal Analysis  
     * Synthetic Signal Generation  
       * DCG to DCG & ECG
-    * Abnormal Classification
-    * Biomedical Image XAI
+    * Abnormal Classification using Biomedical Image XAI
 * Computer Vision      
   * Anormaly detection : 3D-CNN Contest    
 
