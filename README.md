@@ -3,7 +3,7 @@
 
 * Biomedical Signal Processing and Analysis based on Deep Learining
   * Biomedical Signal Processing  
-    * Contact-free cardiogram Noise Removal  
+    * Noise Removal for Contact-free cardiogram   
     * Cardiogram Signal Processing
   * Biomedical Signal Analysis  
     * Synthetic Signal Generation  
